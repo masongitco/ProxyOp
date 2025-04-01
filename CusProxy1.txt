@@ -1,1 +1,0 @@
-trojan-go://NMHmPUkIddf3CdsfdsfsdduzSovh@ovh.ssmind.top:16000/?type=ws&sni=ovh.ssmind.top&host=bilibili.com&path=%2Fprograms#TR-OVH
